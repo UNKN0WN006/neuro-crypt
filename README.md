@@ -30,8 +30,7 @@ What can't be stolen? **Your brain's behavior.**
 
 **Authentication Flow**:
 ```
-User Login → 60s Cognitive Micro-Test → Feature Extraction 
-→ ML Inference (Isolation Forest) → Auth Decision
+User Login → 60s Cognitive Micro-Test → Feature Extraction → ML Inference (Isolation Forest) → Auth Decision
 ```
 
 **Tech Stack**:
