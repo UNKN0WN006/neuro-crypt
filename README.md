@@ -15,7 +15,7 @@
 
 ## Problem
 
-Medical identity theft: **$3.1 billion annually**
+Medical identity theft: **Annually in Large number**
 
 Current authentication fails:
 - Passwords: phished, reused
