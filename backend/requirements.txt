@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+Flask
+Flask-CORS
+python-dotenv

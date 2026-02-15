@@ -1,0 +1,35 @@
+# Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.Python
+venv/
+env/
+ENV/
+*.pkl
+*.joblib
+*.sqlite
+
+# Frontend
+node_modules/
+dist/
+build/
+.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
