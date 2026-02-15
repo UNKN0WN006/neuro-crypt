@@ -103,7 +103,7 @@ The frontend uses a `/api` proxy to reach the backend on port 5000.
 ## Project Structure
 
 ```
-frostbyte-hackathon/
+neuro-crypt/
 ├── ARCHITECTURE.md          # Technical docs
 ├── README.md
 ├── backend/
