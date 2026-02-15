@@ -6,7 +6,9 @@
 
 ### Key Innovation
 ✅ No hardware required  
+
 ✅ Pure ML-based authentication  
+
 ✅ Behavioral signal analysis  
 
 ---
@@ -57,9 +59,13 @@ The frontend uses a `/api` proxy to reach the backend on port 5000.
 ## Features
 
 ✅ **Enrollment**: 60-second behavioral baseline
+
 ✅ **Authentication**: Real-time ML verification
+
 ✅ **Dashboard**: User statistics
+
 ✅ **API**: RESTful endpoints
+
 ✅ **Model**: Trained Isolation Forest
 
 ---
